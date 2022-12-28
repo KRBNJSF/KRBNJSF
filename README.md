@@ -5,9 +5,9 @@
 
 <br><br><br>
 <p align="center">
-<img src="https://im2.ezgif.com/tmp/ezgif-2-7b682b2a42.webp" width="32%">
+<img src="https://raw.githubusercontent.com/KRBNJSF/KRBNJSF/main/assets/flag.webp" width="32%">
 <img src="https://raw.githubusercontent.com/KRBNJSF/KRBNJSF/main/assets/dog.webp" width="32%">
-<img src="https://im2.ezgif.com/tmp/ezgif-2-7b682b2a42.webp" width="32%">
+<img src="https://raw.githubusercontent.com/KRBNJSF/KRBNJSF/main/assets/flag.webp" width="32%">
 </p>
 
 <br>
