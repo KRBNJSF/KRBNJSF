@@ -1,6 +1,6 @@
 <div>
-<img align="left" src="https://media.tenor.com/v4EhnlT6XoAAAAAC/rover-windows-xp.gif" alt="Linux" height="75" width="8%">
-<img align="right" src="https://media.tenor.com/v4EhnlT6XoAAAAAC/rover-windows-xp.gif" alt="Linux" height="75" width="8%">
+<img align="left" src="https://media.tenor.com/v4EhnlT6XoAAAAAC/rover-windows-xp.gif" alt="Linux" width="8%">
+<img align="right" src="https://media.tenor.com/v4EhnlT6XoAAAAAC/rover-windows-xp.gif" alt="Linux" width="8%">
 </div>
 
 <br><br><br>
@@ -14,6 +14,6 @@
 <!--<div align="center"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" width="32%"></div> -->
 
 <div>
-<img align="left" src="https://media.tenor.com/v4EhnlT6XoAAAAAC/rover-windows-xp.gif" alt="Linux" height="75" width="8%">
-<img align="right" src="https://media.tenor.com/v4EhnlT6XoAAAAAC/rover-windows-xp.gif" alt="Linux" height="75" width="8%">
+<img align="left" src="https://media.tenor.com/v4EhnlT6XoAAAAAC/rover-windows-xp.gif" alt="Linux" width="8%">
+<img align="right" src="https://media.tenor.com/v4EhnlT6XoAAAAAC/rover-windows-xp.gif" alt="Linux" width="8%">
 </div>
